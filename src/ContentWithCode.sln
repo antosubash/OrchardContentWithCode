@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCms", "MyCms\MyCms.csproj", "{7F8D26AE-5B50-4AC7-8E45-5557C2B1E838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCms.Projects", "MyCms.Projects\MyCms.Projects.csproj", "{F16DB27D-0917-457C-9061-3CD04DC5ED21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F8D26AE-5B50-4AC7-8E45-5557C2B1E838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8D26AE-5B50-4AC7-8E45-5557C2B1E838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8D26AE-5B50-4AC7-8E45-5557C2B1E838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8D26AE-5B50-4AC7-8E45-5557C2B1E838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F16DB27D-0917-457C-9061-3CD04DC5ED21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16DB27D-0917-457C-9061-3CD04DC5ED21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16DB27D-0917-457C-9061-3CD04DC5ED21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16DB27D-0917-457C-9061-3CD04DC5ED21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
